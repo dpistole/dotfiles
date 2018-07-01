@@ -1,0 +1,7 @@
+{
+    "editor.detectIndentation": false,
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "on",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": { "javascript": "jsx" }
+}
